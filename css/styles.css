@@ -109,6 +109,12 @@ h3 {
         width: 80%;
     }
 }
+@media (max-width: 416px) {
+    .producto__imagen {
+        max-width: 90%;
+        height: auto;
+    }
+}
 
 /*Productos*/
 .producto {
